@@ -1,0 +1,26 @@
+.contatti-section {
+    color: white;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.email-icon {
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.phone-icon {
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.git-icon {
+    font-size: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

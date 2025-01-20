@@ -1,0 +1,18 @@
+.active-button {
+    opacity: 1;
+    font-weight: 500;
+}
+
+.active-button:hover {
+    cursor: pointer;
+}
+
+
+.not-active-button {
+    opacity: 0.4;
+    font-weight: 300;
+}
+
+.not-active-button:hover {
+   cursor: pointer;
+}

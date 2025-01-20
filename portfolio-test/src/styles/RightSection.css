@@ -1,0 +1,17 @@
+.about-me-desc {
+    font-size: 30px;
+    font-weight: 300;
+    width: 100%;
+}
+
+.img-work {
+    width: 100%;
+    height: 250px;
+
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 6px;
+    }
+}

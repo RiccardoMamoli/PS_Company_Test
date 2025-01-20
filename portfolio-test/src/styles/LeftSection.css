@@ -1,0 +1,21 @@
+.intro-section {
+    font-size: 28px;
+}
+
+.name-intro {
+    color: rgb(230, 38, 230);
+    font-weight: 700;
+}
+
+.background-left {
+    background-color: white;
+}
+
+.big-circle {
+    position: absolute;
+    background-color: white;
+    z-index: 0;
+    top: 62px;
+    height: 300px;
+    width: 100%;
+}
